@@ -1,0 +1,3 @@
+# Shashi_Kant_Singh_Pal_Lab1_Python_for_DS
+ Lab 1 assessment
+Shashi_Kant_Singh_Pal_Lab1_Python_for_DS
